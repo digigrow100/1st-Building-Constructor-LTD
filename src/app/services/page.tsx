@@ -76,7 +76,7 @@ export default function ServicesPage() {
           "Full Site Management & CDM Compliant",
           "Turnkey Interior Fit-Out Included",
         ]}
-        image="/images/new-builds-service-detail.webp"
+        image="/images/new-builds.webp"
         imageAlt="Modern multi-storey luxury London detached new build house with architectural brickwork"
         caseRef="Case Reference #NB-408"
         caseTitle="Bespoke 5-Bed Family Residence • Wimbledon SW19"

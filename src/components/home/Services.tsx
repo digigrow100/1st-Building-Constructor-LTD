@@ -28,7 +28,7 @@ const SERVICES = [
     title: "STRUCTURAL WORKS",
     description: "RSJs, load bearing walls, structural alterations and full structural solutions.",
     icon: Boxes,
-    image: "/images/structural-works.webp",
+    image: "/images/structural-works-service-detail.webp",
     alt: "Structural steel beams RSJ installation",
   },
   {
