@@ -28,8 +28,7 @@ const SERVICES = [
     title: "STRUCTURAL WORKS",
     description: "RSJs, load bearing walls, structural alterations and full structural solutions.",
     icon: Boxes,
-    image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBD1foplAjeJMLycVaq6K8H98JVPGwVG-aFgLgCjuTnXfbv9m5Y0TVYa_M3MyyPMBv5ystTI_GOIvjx62bEBcu29A5eARt5hHXDCBxgvHhXopgSoLgw73vZgm18u3Mwrhp1wOR3leeuzNnScAQE52AFVDgd-m61aXl-ZDi1FdQQXAROnTxSxr1zdF2cIkpmxyzxMEBVfl6Io8ywSdqgSD5oG1IwsM46U7HjhmDGJP_vWDLhba7NWR3J",
+    image: "/images/structural-works-service-detail.webp",
     alt: "Structural steel beams RSJ installation",
   },
   {
