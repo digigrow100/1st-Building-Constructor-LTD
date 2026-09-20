@@ -2,6 +2,7 @@ import Hero from "@/components/home/Hero";
 import Services from "@/components/home/Services";
 import ValueProps from "@/components/home/ValueProps";
 import RecentProjects from "@/components/home/RecentProjects";
+import GalleryPreview from "@/components/home/GalleryPreview";
 import AboutPreview from "@/components/home/AboutPreview";
 import WhyChooseUs from "@/components/home/WhyChooseUs";
 import Faq from "@/components/home/Faq";
@@ -14,6 +15,7 @@ export default function Home() {
       <Services />
       <ValueProps />
       <RecentProjects />
+      <GalleryPreview />
       <AboutPreview />
       <WhyChooseUs />
       <Faq />
